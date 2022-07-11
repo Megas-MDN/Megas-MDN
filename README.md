@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melquisedeque-do-nascimento-a3a786105/)
 [![](https://img.shields.io/badge/Megas--MDN.github.io-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Megas-MDN) 
-[![](https://img.shields.io/badge/Youtube-00e3cb?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.youtube.com/c/MegasDdev)
+[![](https://img.shields.io/badge/youtube-b71201?style=for-the-badge&logo=youtube&logoColor=white)](https://https://www.youtube.com/c/MegasDdev)
 
 <!--
 [![]()]()
