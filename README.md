@@ -10,7 +10,7 @@
 
 #### About Me
 
-I'm a brazilian, Control and Automation Engineer. Also, I'm MSc. in electrical engineer (IME), and I'm currently with [Trybe](https://www.betrybe.com/) as student. My areas of interest include ndustry 4.0, I.o.T, software engineering, web development, machine learning, and programming.
+I'm a brazilian, Control and Automation Engineer. Also, I'm MSc. in electrical engineering (IME), and I'm currently with [Trybe](https://www.betrybe.com/) as student. My areas of interest include Industry 4.0, I.o.T, software engineering, web development, machine learning, and programming.
 
 <!--
 Check my published work at:
